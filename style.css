@@ -1,4 +1,19 @@
 main
 {   height: 100vh;
     margin: 0;
-    background-color: khaki;}
+    background-color: khaki;
+display: grid;
+place-items: center;
+background: no-repeat center/ 100% 100%  url(https://image.freepik.com/vecteurs-libre/resume-mosaique-bleu-fond-transparent_1055-2678.jpg);}
+
+    .reset
+    {display: none;
+    width: 20%;
+    height: 80%;
+    border-radius: 40%;
+    padding: 2%;
+    font-weight: 700;
+    font-size: 23px;
+    background-color: gold;
+   }
+
