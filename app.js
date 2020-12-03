@@ -30,7 +30,7 @@ var cl=console.log
 
 var myButton = document.querySelector('.essai')
 var resetButton = document.querySelector('.reset')
-var myDivTest = document.querySelector('div')  
+var myDivTest = document.querySelector('.ee')  
 var nbProposés = document.querySelector('p')
 var randomNumber = getRandom()
 var x = 0
