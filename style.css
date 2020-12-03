@@ -17,3 +17,16 @@ background: no-repeat center/ 100% 100%  url(https://image.freepik.com/vecteurs-
     background-color: gold;
    }
 
+
+ 
+   @media screen and (max-width: 1024px)
+   {
+       main 
+       {font-size: 25px;
+       
+  }
+  input 
+  {width: 20%;
+    height: 40%;}
+ 
+   }
